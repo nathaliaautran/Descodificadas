@@ -1,0 +1,30 @@
+* {
+    background-color: aquamarine;
+    padding-left: 27px;
+}
+
+div {
+
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.verde {
+    background-color: rgb(20, 188, 20);
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
