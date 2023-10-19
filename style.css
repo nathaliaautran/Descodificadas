@@ -28,3 +28,6 @@ div {
     background-color: yellow;
 }
 
+.borda {
+    border: 3px solid black;
+}
